@@ -12,7 +12,20 @@
           "package_name": "com.example.btvn_uth_smarttasks"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "306199333564-pt5th6sbmqq7a9bbbeg6ctctnbtj3lc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.btvn_uth_smarttasks",
+            "certificate_hash": "45248ee39d7acb131778e445b87b6673081794fd"
+          }
+        },
+        {
+          "client_id": "306199333564-0qdhdk9dqv5ptj6lj9u4dlii2lnpc9bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDaUP7c2MXbvoC37pIdLvTIXFQACSmELeU"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306199333564-0qdhdk9dqv5ptj6lj9u4dlii2lnpc9bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
